@@ -28,7 +28,7 @@ class Operation1
             count=0;
             j=0;
             c=str.charAt(i);
-            /*Comparing every character in the string with each otheR AND
+            /*Comparing every character in the string with each other AND
               Storing its number of occurance in 'count' variable
             */
             while(j<str.length())
